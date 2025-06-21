@@ -3,7 +3,6 @@
 ## 💻 About Me
 
 - 🐍 I'm a **Python Backend Developer** with a strong foundation in building robust, scalable systems.
-- ⚡ I have experience with **Batch scripting** and automation tasks.
 - 💡 Currently, I'm interested in exploring **Linux** and expanding my development workflow beyond Windows.
 - 🚀 I enjoy creating and improving applications that solve real-world problems, with a focus on backend technologies and system efficiency.
 
@@ -14,10 +13,10 @@ I'm currently developing and enhancing the **Students Manager App**, a project a
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python (Backend), Batch scripting
+- **Languages:** Python (Backend)
 - **Frameworks & Tools:** Flask, Django, REST APIs, SQL, Automation
 - **Operating Systems:** Windows (primary), exploring Linux
-- **Areas of Interest:** Backend development, automation, system utilities, education tech
+- **Areas of Interest:** Backend development,system utilities
 
 ## 📫 Let's Connect
 
