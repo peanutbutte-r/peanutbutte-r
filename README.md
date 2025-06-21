@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Youcef Shaaban
 
-<!--
-**youcefshaaban/youcefshaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🐍 I'm a **Python Backend Developer** with a strong foundation in building robust, scalable systems.
+- ⚡ I have experience with **Batch scripting** and automation tasks.
+- 💡 Currently, I'm interested in exploring **Linux** and expanding my development workflow beyond Windows.
+- 🚀 I enjoy creating and improving applications that solve real-world problems, with a focus on backend technologies and system efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Project
+
+### Students Manager App
+I'm currently developing and enhancing the **Students Manager App**, a project aimed at streamlining student management tasks. My focus is on adding new features, optimizing performance, and delivering a seamless backend experience. Stay tuned for exciting updates!
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** Python (Backend), Batch scripting
+- **Frameworks & Tools:** Flask, Django, REST APIs, SQL, Automation
+- **Operating Systems:** Windows (primary), exploring Linux
+- **Areas of Interest:** Backend development, automation, system utilities, education tech
+
+## 📫 Let's Connect
+
+- GitHub: [youcefshaaban](https://github.com/youcefshaaban)
+
+---
+
+> “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
