@@ -4,8 +4,6 @@
 
 -  I'm a passionate **Python learner** who loves building amazing projects and exploring new technologies.
 -  I've worked on several interesting projects.  
-  The one I'm most proud of is the **Student Manager App**—an application designed to make managing a student group easy and efficient.  
-  I'm excited to keep improving it and add new features!
 -  I'm eager to dive deeper into **Backend Development** and explore the world of **AI**.
 -  I'm also interested in learning and using **Linux** as part of my development journey.
 -  I'm committed to working hard and making awesome things happen!
