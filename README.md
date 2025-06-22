@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Youcef Shaaban
+#  Hi, I'm Youcef Shaaban
 
-## 💻 About Me
+##  About Me
 
-- 🐍 I'm a **Python Backend Developer** with a strong foundation in building robust, scalable systems.
-- 💡 Currently, I'm interested in exploring **Linux** and expanding my development workflow beyond Windows.
-- 🚀 I enjoy creating and improving applications that solve real-world problems, with a focus on backend technologies and system efficiency.
+-  I'm a passionate **Python learner** who loves building amazing projects and exploring new technologies.
+-  I've worked on several interesting projects.  
+  The one I'm most proud of is the **Student Manager App**—an application designed to make managing a student group easy and efficient.  
+  I'm excited to keep improving it and add new features!
+-  I'm eager to dive deeper into **Backend Development** and explore the world of **AI**.
+-  I'm also interested in learning and using **Linux** as part of my development journey.
+-  I'm committed to working hard and making awesome things happen!
 
-## 🌟 Featured Project
+##  Tools & Technologies
 
-### Students Manager App
-I'm currently developing and enhancing the **Students Manager App**, a project aimed at streamlining student management tasks. My focus is on adding new features, optimizing performance, and delivering a seamless backend experience. Stay tuned for exciting updates!
+- **Languages:** Python
+- **Operating Systems:** Windows (main), learning Linux
+- **Interests:** Backend development, Artificial Intelligence, automation, student management tools
 
-## 🛠️ Tools & Technologies
-
-- **Languages:** Python (Backend)
-- **Frameworks & Tools:** Flask, Django, REST APIs, SQL, Automation
-- **Operating Systems:** Windows (primary), exploring Linux
-- **Areas of Interest:** Backend development,system utilities
-
-## 📫 Let's Connect
+##  Let's Connect
 
 - GitHub: [youcefshaaban](https://github.com/youcefshaaban)
 
