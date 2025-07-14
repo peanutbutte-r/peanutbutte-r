@@ -10,6 +10,8 @@
 
 ##  Tools & Technologies
 ![HTML](icons8-html-5.svg)
+![CSS](icons8-css-logo-100.svg)
+![Python](icons8-python.svg)
 
 ##  Let's Connect
 
