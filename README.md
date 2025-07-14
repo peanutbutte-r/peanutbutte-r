@@ -12,6 +12,8 @@
 ![HTML](icons8-html-5.svg)
 ![CSS](icons8-css-logo-100.svg)
 ![Python](icons8-python.svg)
+![Linux](icons8-linux-100.png)
+![Bash](icons8-bash.svg)
 
 ##  Let's Connect
 
