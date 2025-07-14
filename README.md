@@ -9,9 +9,7 @@
 -  I'm committed to working hard and making awesome things happen!
 
 ##  Tools & Technologies
-
-- **Languages:** Python, HTML, CSS
-- **Interests:** FullStack development, Artificial Intelligence
+![HTML](icons8-html-5.svg)
 
 ##  Let's Connect
 
