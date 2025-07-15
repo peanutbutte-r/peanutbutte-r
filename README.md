@@ -2,10 +2,10 @@
 
 ##  About Me
 
--  I'm a passionate **Python Devoloper** && **Web Developer** who loves building amazing projects and exploring new technologies.
+-  I'm a passionate **Python Devoloper** & **Web Developer** who loves building amazing projects and exploring new technologies.
 -  I've worked on several interesting projects.  
 -  I'm eager to dive deeper into **Full Stack Development** and explore the world of **AI**.
--  I'm also interested in learning and using **Linux** as part of my development journey.
+-  I'm also expert in using **Linux** as part of my development journey.
 -  I'm committed to working hard and making awesome things happen!
 
 ##  Tools & Technologies
