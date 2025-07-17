@@ -17,7 +17,7 @@
 
 ##  Let's Connect
 
-- GitHub: [youcefshaaban](https://github.com/youcefshaaban)
+- GitHub: [Here!](https://github.com/youcefshaaban)
 - My Social Links: [Social Links](https://youcefshaaban.github.io/social-links)
 
 ---
