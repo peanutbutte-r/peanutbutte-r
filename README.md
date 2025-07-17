@@ -20,8 +20,4 @@
 
 - GitHub: [Here!](https://github.com/youcefshaaban)
 - My Social Links: [Social Links](https://youcefshaaban.github.io/social-links)
-
----
-
-### 📎 Attribution
-Icons used in this profile are from [Icons8](https://icons8.com)
+- Email: [Send Email](mailto: yousafsh351@gmail.com)
