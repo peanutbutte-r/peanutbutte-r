@@ -1,12 +1,12 @@
-#  Hi, I'm Youcef Shaaban
+# 👋 Hi, I'm Youcef Shaaban
 
-##  About Me
+## 👨🏻‍🎓 About Me
 
--  I'm a passionate **Python Devoloper** & **Web Developer** who loves building amazing projects and exploring new technologies.
--  I've worked on several interesting projects.  
--  I'm eager to dive deeper into **Full Stack Development** and explore the world of **AI**.
--  I'm also expert in using **Linux** as part of my development journey.
--  I'm committed to working hard and making awesome things happen!
+- 🚀 I'm a passionate **Python Devoloper** & **Web Developer** who loves building amazing projects and exploring new technologies.
+- 🚀 I've worked on several interesting projects.  
+- 🚀 I'm eager to dive deeper into **Full Stack Development** and explore the world of **AI**.
+- 🚀 I'm also expert in using **Linux** as part of my development journey.
+- 🚀 I'm committed to working hard and making awesome things happen!
 
 ##  Tools & Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
