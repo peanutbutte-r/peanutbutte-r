@@ -9,11 +9,12 @@
 -  I'm committed to working hard and making awesome things happen!
 
 ##  Tools & Technologies
-![HTML](icons8-html-5.svg)
-![CSS](icons8-css-logo-100.svg)
-![Python](icons8-python.svg)
-![Linux](icons8-linux-100.png)
-![Bash](icons8-bash.svg)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC645?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ##  Let's Connect
 
