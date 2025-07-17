@@ -20,4 +20,3 @@
 
 - GitHub: [Here!](https://github.com/youcefshaaban)
 - My Social Links: [Social Links](https://youcefshaaban.github.io/social-links)
-- Email: (Send Email)[mailto: yousafsh351@gmail.com]
