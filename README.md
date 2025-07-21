@@ -9,12 +9,13 @@
 - 🚀 I'm committed to working hard and making awesome things happen!
 
 ##  Tools & Technologies
-![HTML](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash">
+</div>
 
 ##  Let's Connect
 
