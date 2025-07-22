@@ -1,4 +1,4 @@
-# 👋 Hi, I'm planeNet
+# 👋 Hi, I'm CodeY
 
 ## 👨🏻‍🎓 About Me
 
