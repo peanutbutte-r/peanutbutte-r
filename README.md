@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SkrProg 
+# 👋 Hi, I'm planeNet
 
 ## 👨🏻‍🎓 About Me
 
