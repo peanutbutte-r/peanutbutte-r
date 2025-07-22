@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youcef Shaaban
+# 👋 Hi, I'm SkrProg 
 
 ## 👨🏻‍🎓 About Me
 
@@ -14,8 +14,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-##  Let's Connect
-
-- GitHub: [Here!](https://github.com/youcefshaaban)
-- My Social Links: [Social Links](https://youcefshaaban.github.io/social-links)
