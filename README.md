@@ -4,7 +4,7 @@
 
 - I'm a passionate **Python Devoloper** & **C/C++ Developer (soon)** who loves building amazing projects and exploring new technologies.
 -  I've worked on several interesting projects.  
--  I'm eager to dive deeper into **Low Level Programming** and explore the world of **AI**.
+-  I'm eager to dive deeper into **Low Level Programming** and explore the world of **AI** and maybe **Game Development**.
 -  I'm also expert in using **Linux** as part of my development journey.
 -  I'm committed to working hard and making awesome things happen!
 
