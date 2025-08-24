@@ -16,3 +16,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## Github Stats:
+![stats](https://github-readme-stats.vercel.app/api?username=codey260&show_icons=true&theme=dark)
+
+## Top Languages:
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=codey260&layout=compact&theme=dark)
+
+## Streak:
+![streak](https://streak-stats.demolab.com?user=codey260&theme=dark)
