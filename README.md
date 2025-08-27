@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CodeY
+# 👋 Hi, I'm Peanut Butter
 
 ## About Me
 
