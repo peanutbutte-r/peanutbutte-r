@@ -1,9 +1,8 @@
-# Hi, I'm Peanut Butter
+## Hi, I'm Peanut Butter
 
 ### About Me
 
 - I'm a passionate Python Developer & C++ Developer.
--  I've worked on small interesting projects.  
 -  I'm interested in Low Level Programming with C++ and explore the world of AI and Game Development
 - Want to learn Graphic Design, Pixel Art as a hobby
 
