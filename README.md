@@ -2,17 +2,10 @@
 
 ## About Me
 
-- I'm a passionate **Python Devoloper** & **C/C++ Developer (soon)** who loves building amazing projects and exploring new technologies.
--  I've worked on several interesting projects.  
--  I'm eager to dive deeper into **Low Level Programming** and explore the world of **AI** and maybe **Game Development**.
--  I'm also expert in using **Linux** as part of my development journey.
--  I'm committed to working hard and making awesome things happen!
+- I'm a passionate Python Developer & C++ Developer.
+-  I've worked on small interesting projects.  
+-  I'm interested in Low Level Programming with C++ and explore the world of AI and Game Development
+- Want to learn Graphic Design, Pixel Art as a hobby
 
-##  Tools
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-
-## Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+### Tools: ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+### Skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
