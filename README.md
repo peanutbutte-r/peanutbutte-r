@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peanut Butter
+# Hi, I'm Peanut Butter
 
 ## About Me
 
